@@ -1,5 +1,7 @@
 # TicTacToePonzi
 
+Created a secure smart contract for a tic-tac-toe ponzi scheme as specified below.
+
 Smart Contract Specification
 
 Once the ponzi starts, there will only be two active players involved: the current payee, and a challenger. When a challenger pays into the pot, they automatically enter a game of tic-tac-toe with the current payee.
